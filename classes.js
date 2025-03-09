@@ -23,7 +23,6 @@ class Product {
         
     }
 }
-
 let iphone = new Product("Iphone",500000);
 let Laptop = new Product("Laptop",60000);
 
